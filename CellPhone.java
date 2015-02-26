@@ -1,7 +1,8 @@
 /** CellPhone class
 *   Anderson, Franceschi
 */
-
+/** Java Doc
+ * /
 import java.text.DecimalFormat;
 
 public class CellPhone
@@ -15,7 +16,7 @@ public class CellPhone
   */
   public CellPhone( )
   {
-     phoneNumber = "";
+     phoneNumber = "5555";
      cellBills = new double [MONTHS];
   }
 
